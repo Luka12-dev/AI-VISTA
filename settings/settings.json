@@ -1,0 +1,6 @@
+{
+    "cpu_limit_percent": 100,
+    "gpu_limit_percent": 95,
+    "ram_limit_percent": 95,
+    "monitor_interval": 1.0
+}

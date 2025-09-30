@@ -1,0 +1,8 @@
+torch
+diffusers
+transformers
+huggingface_hub
+tqdm
+requests
+pyqt6
+pyqt6-tools

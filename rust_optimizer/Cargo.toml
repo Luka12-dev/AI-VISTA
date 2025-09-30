@@ -1,0 +1,22 @@
+[package]
+name = "aivista_cache_scan"
+version = "0.1.0"
+edition = "2021"
+
+[features]
+default = []
+gpu = ["ocl"]
+
+[dependencies]
+anyhow = "1.0"
+clap = { version = "4.2", features = ["derive"] }
+walkdir = "2.3"
+memmap2 = "0.6"
+blake3 = "1.4"
+rayon = "1.6"
+indicatif = "0.17"
+num_cpus = "1.16"
+crossbeam-channel = "0.5"
+
+# Optional GPU feature:
+ocl = { version = "0.30", optional = true }
