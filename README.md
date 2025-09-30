@@ -1,8 +1,16 @@
 # AI VISTA - Professional Local & LAN Image Studio
 
 ![AI VISTA Desktop](MainScreen.png)
+
+---
+
 ![AI VISTA WEB](MainScreenWeb.png)
+
+---
+
 ![AI Image Test](TestImage.png)
+
+---
 
 **AI VISTA** is a local-first, professional image generation studio built for artists, developers, and creators who want full control over their workflows. It supports **Stable Diffusion** models including SDXL, offers a polished web UI, and an optional PyQt desktop interface for local or LAN use.
 
